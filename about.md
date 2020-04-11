@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Hi!
+
 I'm Miguel Quaresma, a computer engineer from Portugal interested in
 high performance, formally verified, applied cryptography as well as
 hardware solutions for systems security such as TEEs.
