@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/miguelmirq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mquaresma.github.io
+  * I am miguelmirq (https://keybase.io/miguelmirq) on keybase.
+  * I have a public key ASCIbutxbacx4UWfP7ayAoaZqtQEuPEjXfk-xT3p2eo27Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120886eeb716da731e1459f3fb6b2028699aad404b8f1235df93ec53de9d9ea36ed0a",
+      "host": "keybase.io",
+      "kid": "0120886eeb716da731e1459f3fb6b2028699aad404b8f1235df93ec53de9d9ea36ed0a",
+      "uid": "7f7abdcb0fee1949481c678d8be7df19",
+      "username": "miguelmirq"
+    },
+    "merkle_root": {
+      "ctime": 1569048063,
+      "hash": "42d3045ea78ae653fe86ade3c2ef162b19bf7a5ec105c4bd1238d4710a1b0cf7772f9b126085d00ab6cf53aa47afb62ddad270152a29893f8f67bf808d7ee61a",
+      "hash_meta": "a66f40eab5e8769a8072c42bf200729212da0d317e90a52481bed14c21412e90",
+      "seqno": 7660128
+    },
+    "service": {
+      "entropy": "ghtcC3LM2Mi6qD3b5pwEANlh",
+      "hostname": "mquaresma.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569048077,
+  "expire_in": 504576000,
+  "prev": "be8dea51c4e2c1c0ef2aa04e3dad08974a1a7644f84080a793d9ae09e7d0ac15",
+  "seqno": 92,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiG7rcW2nMeFFnz+2sgKGmarUBLjxI135PsU96dnqNu0Kp3BheWxvYWTESpcCXMQgvo3qUcTiwcDvKqBOPa0Il0oadkT4QICnk9muCefQrBXEIKjf8TRK+S/+dAwqSI4dg/bjinwvU5f4id3nqeuOe/6rAgHCo3NpZ8RAtP9c+sIrOZkS8u8mhUEV0OQ15VJku9pXHpymC7YRht1mVL9NMInOBzJ9TSxusjOo6zijZCyJm1sjsjbxsucYAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKLCYpYDDggm2lL48stvE5P+YWCF0kc9c0NO4mFI5E7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/miguelmirq
+
+==================================================================
