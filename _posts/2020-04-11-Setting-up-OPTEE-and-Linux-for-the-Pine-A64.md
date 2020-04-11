@@ -65,7 +65,7 @@ and normal world, S-EL1 and EL1. The following sequence of commands is enough to
 git clone https://review.trustedfirmware.org/TF-A/trusted-firmware-a
 cd trusted-firmware-a
 git checkout <latest stable release> (e.g. v2.2)
-make PLAT=sun50i_a64 DEBUG=1 bl31
+make PLAT=sun50i_a64 SPD=opteed DEBUG=1 bl31
 export BL31=$(pwd)/build/sun50i_a64/debug/bl31.bin
 ```
 
