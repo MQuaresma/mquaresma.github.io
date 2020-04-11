@@ -58,6 +58,9 @@ export CROSS_COMPILE="ccache aarch64-linux-gnu-"
 
 
 ## ARM TF-A
+ARM Trusted Firmware is responsible for the EL3 runtime secure monitor in the Pine A64, switching between the secure
+and normal world, S-EL1 and EL1. The following sequence of commands is enough to compile it for the Pine A64:
+
 ```
 git clone https://review.trustedfirmware.org/TF-A/trusted-firmware-a
 cd trusted-firmware-a
@@ -68,7 +71,7 @@ export BL31=$(pwd)/build/sun50i_a64/debug/bl31.bin
 
 
 ## OPTEE
-OP-TEE is made up of two essential components, the (secure) itself, OPTEE OS, and a client
+OP-TEE is made up of two essential components, the (secure) OS itself, OPTEE OS, and a client
 which will run in the normal world and interact with OPTEE OS via the OPTEE driver provided
 by the (Linux) kernel.
 
@@ -99,6 +102,8 @@ tar -cfv optee_client.tar.gz usr
 The resutling tar archive should be placed in the [root partition](#rootfs) in the respective subdirectories.
 
 ## U-Boot
+U-Boot is the normal world bootloader, however the repo also includes a SPL which will be loaded by BL1.
+
 ### Modifications
 The binary image built for the Pine A64+ board in mainline U-Boot doesn't load OPTEE, thus the
 script used to generate the Device Tree Binary must be patched. The [patched version](/assets/mksunxi_fit_atf_optee.sh) 
