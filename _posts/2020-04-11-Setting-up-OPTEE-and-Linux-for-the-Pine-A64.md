@@ -23,7 +23,7 @@ is present.
 ## Boot Flow
 OP-TEE can be booted on the Pine A64 in combination with Linux. In this setup, the boot flow is as follows:
 
-![ARMv8 Bootflow](ARMv8_BootFlow.png)
+![ARMv8 Bootflow](/assets/ARMv8_BootFlow.png)
 
 The BootROM code, considered BL1, is loaded from the chips ROM which in turn loads the SPL responsible for
 initializing DRAM and loading OP-TEE, ARM-TF and U-Boot to memory. The processor then branches to ARM-TF
@@ -101,7 +101,7 @@ The resutling tar archive should be placed in the [root partition](#rootfs) in t
 ## U-Boot
 ### Modifications
 The binary image built for the Pine A64+ board in mainline U-Boot doesn't load OPTEE, thus the
-script used to generate the Device Tree Binary must be patched. The [patched version](mksunxi_fit_atf_optee.sh) 
+script used to generate the Device Tree Binary must be patched. The [patched version](/assets/mksunxi_fit_atf_optee.sh) 
 should be copied to `board/sunxi/mksunxi_fit_atf.sh`
 
 ```
@@ -146,7 +146,7 @@ cd linux
 ```
 
 2. Replace the DT source for the Pine A64, in `arch/arm64/boot/dts` with the 
-   [new one](sun50i-a64-pine64-plus.dts)
+   [new one](/assets/sun50i-a64-pine64-plus.dts)
 
 3. Generate a configuration: `make ARCH=arm64 defconfig`
 
