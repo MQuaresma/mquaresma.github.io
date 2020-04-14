@@ -172,6 +172,7 @@ cd linux
 
 ## Partitioning the SD Card
 Partitioning the SD card can be achievied by running the following sequence of commands:
+
 ```
 sudo dd if=/dev/zero of=/dev/sdX bs=1M count=1
 
@@ -191,6 +192,7 @@ mkfs.ext4 /dev/sdX2
 U-Boot is configured via a file, `boot.cmd`, which will be wrapped by a U-boot header.  To configure U-Boot:
 
 1. Mount the boot partition `/dev/sdX1` in `/mnt` and create the `boot.cmd` file as such:
+
 ```
 fatload mmc 0 0x46000000 Image
 fatload mmc 0 0x49000000 sun50i-a64-pine64-plus.dtb
