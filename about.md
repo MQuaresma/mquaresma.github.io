@@ -15,3 +15,5 @@ ARM TrustZone".
 
 In my spare I can be found [training triathlon](https://www.strava.com/athletes/4564921/) 
 or playing in the mountains, my favorite place.
+
+[Curriculum Vitae](/assets/Short_CV.pdf)
