@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Miguel Quaresma
 email: miguelmirq@gmail.com
-description: PhD student in high performance, verified cryptography, also interesting in systems programming. Triathlete and mountain lover.
+description: Ph.D researcher in high performance, formally verified cryptography.
+  Endurance athlete focusing on trail running, cycling and triathlons.
 baseurl: ""
 url: "https://mquaresma.github.io"
-twitter_username: miguel__mq
 github_username:  MQuaresma
 
 # Build settings

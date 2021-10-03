@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Hi!
+I'm a Ph.D researcher at the [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org/) under the supervision
+of [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) and [Gilles Barthe](https://gbarthe.github.io/).
 
-I'm Miguel Quaresma, a computer engineer from Portugal interested in
-high performance, formally verified, applied cryptography as well as
-hardware solutions for systems security such as TEEs.
+My work is focused on high performance, formally verified post-quantum cryptographic implementations (high assurance cryptography for short).
 
-PhD student in high performance and formally verified cryptography.
+Previously I worked at [Goldman Sachs](https://www.goldmansachs.com/) as a Cybersecurity Analyst.
 
-In my spare I can be found [training triathlon](https://www.strava.com/athletes/4564921/) 
-or playing in the mountains, my favorite place.
+From 2015 to 2020 I completed my Bachelors and Masters in Computer Engineering at [University of Minho](https://www.uminho.pt/EN).
 
-[Curriculum Vitae](/assets/Short_CV.pdf)
+My Master's thesis was written at the [High-Assurance Software Laboratory (HASLab)](https://haslab.uminho.pt/) as part of the
+[REASSURE project](http://www.cister.isep.ipp.pt/projects/reassure).
+
+**Thesis**: "TrustZone based Attestation in Secure Runtime Verification for Embedded Systems"
+  [pdf](assets/dissertation.pdf)
+**Specialisation**: Cryptography and Information Security, Parallel and Distributed Computing
+
+**Full CV**: [pdf](assets/Short_CV.pdf)
+
+## Non-Academic Interests
+I'm an avid [endurance athlete](https://www.strava.com/athletes/4564921/), focusing on (ultra)
+trail running, cycling and triathlons.
