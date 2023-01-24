@@ -30,3 +30,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+minima:
+ skin: dark
