@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Contact
-GPG: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E03](assets/miguelq.asc)
+GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc)
 
 # About
 
