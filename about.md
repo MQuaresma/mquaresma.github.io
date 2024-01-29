@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+# Contact
+GPG: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E03](assets/miguelq.asc)
+
+# About
+
 I'm a Ph.D researcher at the [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org/) under the supervision
 of [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) and [Gilles Barthe](https://gbarthe.github.io/).
 
