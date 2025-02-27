@@ -4,7 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![profile](/assets/profile.jpeg){:width="40%"}
+![profile](/assets/profile.jpeg){: style="float: left; margin-right: 4em; width:40%"}
+
+Email: [miguelquaresma.w@gmail.com](mailto:miguelquaresma.w@gmail.com)  
+GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc)   
+Full CV: [[PDF](assets/Short_CV.pdf)]  
+[LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/) | [Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ) | [GitHub](https://github.com/MQuaresma)
+<div style="clear: both;"></div><br>
 
 I am a Doctoral Researcher at the [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org/) jointly supervised by [Gilles Barthe](https://gbarthe.github.io/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on high-performance, high-assurance post-quantum cryptographic implementations.
 
@@ -30,13 +36,6 @@ During my studies I completed two internships: as a Software Engineer at Closer 
 - *Formally verifying Kyber Episode IV: Implementation Correctness*  
   **TCHES 2023**  
   [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2023/215)] [[talk](https://youtu.be/Y2U0a4hTiNs&t=1522)]
-
-**Full CV**: [[PDF](assets/Short_CV.pdf)]
-
-## Contact
-Email: [miguelquaresma.w@gmail.com](mailto:miguelquaresma.w@gmail.com)  
-GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc)  
-[[LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/)] [[Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ)] [[GitHub](https://github.com/MQuaresma)]
 
 ## Other
 I am a competitive [endurance athlete](https://www.strava.com/athletes/4564921/) focused on ultra trail running.
