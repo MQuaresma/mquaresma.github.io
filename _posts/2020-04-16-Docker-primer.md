@@ -5,7 +5,6 @@ date:   2020-04-16 21:58:42 +0000
 categories: devops containers docker
 ---
 
-# Docker Primer
 ##  Backstory 
 Docker, along with containers, are technologies that I've been trying to understand for quite sometime now,
 as I've had to use them more than once. However, I always managed to just Copy-Paste commands without really

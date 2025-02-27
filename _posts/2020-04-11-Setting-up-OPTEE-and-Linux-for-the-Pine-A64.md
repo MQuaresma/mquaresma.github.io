@@ -5,7 +5,6 @@ date:   2020-04-11 15:09:42 +0000
 categories: pine a64
 ---
 
-# Pine A64 Manual Setup
 The [Pine A64](https://linux-sunxi.org/Pine64) is a board running the [A64](https://linux-sunxi.org/A64) SoC
 and comes in three different variants:
 

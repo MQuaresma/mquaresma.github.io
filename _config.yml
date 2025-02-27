@@ -14,12 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miguel Quaresma
-email: miguelmirq@gmail.com
-description: Ph.D researcher in high performance, formally verified cryptography.
-  Endurance athlete focusing on trail running, cycling and triathlons.
+description:  Ph.D. Candidate at MPI-SP working on high-assurance high-performance post-quantum cryptography.
+  Ultra-trail runner.
 baseurl: ""
 url: "https://mquaresma.github.io"
-github_username:  MQuaresma
 
 # Build settings
 markdown: kramdown
@@ -33,3 +31,6 @@ exclude:
 
 minima:
  skin: dark
+
+header_pages:
+  - blog.md
