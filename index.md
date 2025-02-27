@@ -16,12 +16,12 @@ I am a Doctoral Researcher at the [Max-Planck Institute for Security and Privacy
 Previously I worked at [Goldman Sachs](https://www.goldmansachs.com/) as a Cybersecurity Analyst.
 
 Between 2015 and 2020 I completed my BSc and MSc degrees in Computer Engineering at the [University of Minho](https://www.uminho.pt/EN), where I specialized in Cryptography, Information Security, Parallel and Distributed Computing. I wrote my Master's thesis at the [High-Assurance Software Laboratory (HASLab)](https://haslab.uminho.pt/) as part of the
-[REASSURE project](http://www.cister.isep.ipp.pt/projects/reassure):
+[REASSURE project](http://www.cister.isep.ipp.pt/projects/reassure).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thesis**: *TrustZone based Attestation in Secure Runtime Verification for Embedded Systems*
   [[PDF](assets/dissertation.pdf)]
 
-During my studies I completed two internships: as a Software Engineer at Closer Consulting in 2018 and as a Security Engineer at Aptoide in 2019.
+During my studies I completed two internships as a Software Engineer at Closer Consulting in 2018 and as a Security Engineer at Aptoide in 2019.
 
 ## Publications
 - *Formally verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt*  
