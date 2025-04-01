@@ -26,10 +26,11 @@ During my studies I completed two internships as a Software Engineer at Closer C
 ## Publications
 - *Jazzline: Composable CryptoLine functional correctness proofs for Jasmin programs*  
   **ACM CCS 2025**  
+  [[code](https://github.com/jasmin-lang/jasmin/tree/cryptoline)]
 
 - *Formally verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt*  
   **CRYPTO 2024**  
-  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2024/843)] [[talk](https://youtu.be/QcTSUQ1hzdw?t=2271)]
+  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2024/843)] [[talk - RWC](https://youtu.be/QcTSUQ1hzdw?t=2271)] [[talk - Usenix Security 24](https://www.youtube.com/watch?v=IpavvH9hJm0)]
 
 - *Swoosh: Efficient Lattice-Based Non-Interactive Key Exchange*  
   **USENIX Security 2024**  
