@@ -24,6 +24,9 @@ Between 2015 and 2020 I completed my BSc and MSc degrees in Computer Engineering
 During my studies I completed two internships as a Software Engineer at Closer Consulting in 2018 and as a Security Engineer at Aptoide in 2019.
 
 ## Publications
+- *Jazzline: Composable CryptoLine functional correctness proofs for Jasmin programs*  
+  **ACM CCS 2025**  
+
 - *Formally verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt*  
   **CRYPTO 2024**  
   [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2024/843)] [[talk](https://youtu.be/QcTSUQ1hzdw?t=2271)]
