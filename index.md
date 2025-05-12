@@ -11,7 +11,7 @@ Full CV: [PDF](assets/Short_CV.pdf)
 [LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/) | [Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ) | [GitHub](https://github.com/MQuaresma)
 <div style="clear: both;"></div><br>
 
-Since May 2025, I'm a Security and Cryptography Researcher and Engineer at [Least Authority](https://leastauthority.com/), performing security audits, from design to implementation, of cryptographic and distributed applications.
+Since May 2025, I'm a Security and Cryptography Researcher and Engineer at [Least Authority](https://leastauthority.com/), performing security audits of cryptographic and distributed applications, from design to implementation.
 
 I am also a Doctoral Candidate at the [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org/) jointly supervised by [Gilles Barthe](https://gbarthe.github.io/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on high-performance, high-assurance post-quantum cryptographic implementations.
 
