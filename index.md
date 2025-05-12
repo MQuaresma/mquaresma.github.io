@@ -32,11 +32,11 @@ During my studies I completed two internships as a Software Engineer at Closer C
 
 - *Formally verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt*  
   **CRYPTO 2024**  
-  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2024/843)] [[talk - RWC](https://youtu.be/QcTSUQ1hzdw?t=2271)] [[talk - Usenix Security 24](https://www.youtube.com/watch?v=IpavvH9hJm0)]
+  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2024/843)] [[talk](https://youtu.be/QcTSUQ1hzdw?t=2271)]
 
 - *Swoosh: Efficient Lattice-Based Non-Interactive Key Exchange*  
   **USENIX Security 2024**  
-  [[code](https://github.com/MQuaresma/pswoosh)] [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/gajland)] [[talk](https://youtu.be/Mo4g5z2Sea4)]
+  [[code](https://github.com/MQuaresma/pswoosh)] [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/gajland)] [[talk - RWC](https://youtu.be/Mo4g5z2Sea4)] [[talk - Usenix Security 24](https://www.youtube.com/watch?v=IpavvH9hJm0)]
 
 - *Formally verifying Kyber Episode IV: Implementation Correctness*  
   **TCHES 2023**  
