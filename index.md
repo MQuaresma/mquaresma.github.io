@@ -7,7 +7,7 @@ layout: home
 ![profile](/assets/profile.jpeg){: style="float: left; margin-right: 4em; width:40%"}
 
 Email: miguelquaresma DOT w AT gmail DOT com
-Full CV: [PDF](assets/Short_CV.pdf)  (07/2025)
+Full CV: [PDF](assets/Short_CV.pdf) (07/2025)  
 [LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/) | [Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ) | [GitHub](https://github.com/MQuaresma)
 <div style="clear: both;"></div><br>
 
