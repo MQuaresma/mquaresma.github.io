@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miguel Quaresma
-description:  Security and Cryptography Researcher and Engineer at Least Authority
+description:  Security and Cryptography Researcher and Engineer at Least Authority.
   Ph.D. Candidate at MPI-SP.
   Ultra-trail runner.
 baseurl: ""
