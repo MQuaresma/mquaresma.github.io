@@ -28,7 +28,7 @@ During my studies I completed two internships as a Software Engineer at Closer C
 ## Publications
 - *Jazzline: Composable CryptoLine functional correctness proofs for Jasmin programs*  
   **ACM CCS 2025**  
-  [[code](https://github.com/MQuaresma/jasmin/tree/cryptoline-mc)][[paper](assets/jazzline.pdf)]
+  [[code](https://github.com/MQuaresma/jasmin/tree/cryptoline-mc)] [[paper](assets/jazzline.pdf)]
 
 - *Formally verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt*  
   **CRYPTO 2024**  

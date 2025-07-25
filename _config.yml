@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miguel Quaresma
-description:  Ph.D. Candidate at MPI-SP working on high-performance, high-assurance post-quantum cryptography.
+description:  Security and Cryptography Researcher and Engineer at Least Authority
+  Ph.D. Candidate at MPI-SP.
   Ultra-trail runner.
 baseurl: ""
 url: "https://mquaresma.github.io"
