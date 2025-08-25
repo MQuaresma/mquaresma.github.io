@@ -8,7 +8,8 @@ layout: home
 
 Email: miguelquaresma DOT w AT gmail DOT com
 Full CV: [PDF](assets/Short_CV.pdf) (07/2025)  
-[LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/) | [Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ) | [GitHub](https://github.com/MQuaresma)
+[LinkedIn](https://www.linkedin.com/in/miguel-quaresma-042b07145/) | [Google Scholar](https://scholar.google.com/citations?user=fgGXMpAAAAAJ) | [GitHub](https://github.com/MQuaresma)  
+GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc)  
 <div style="clear: both;"></div><br>
 
 I am a Security and Cryptography Researcher and Engineer at [Least Authority](https://leastauthority.com/), performing security audits of cryptographic and distributed applications, from design to implementation.
@@ -40,9 +41,7 @@ During my studies I completed two internships as a Software Engineer at Closer C
 
 - *Formally verifying Kyber Episode IV: Implementation Correctness*  
   **TCHES 2023**  
-  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2023/215)] [[talk](https://youtu.be/Y2U0a4hTiNs&t=1522)]
-
-GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc)   
+  [[code](https://github.com/formosa-crypto/formosa-mlkem)] [[paper](https://ia.cr/2023/215)] [[talk](https://youtu.be/Y2U0a4hTiNs&t=1522)]  
 
 ## Other
 I am a competitive [endurance athlete](https://www.strava.com/athletes/4564921/) focused on ultra trail running.
