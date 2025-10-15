@@ -46,5 +46,5 @@ During my studies I completed two internships as a Software Engineer at Closer C
 ## Other
 I am a competitive [endurance athlete](https://www.strava.com/athletes/4564921/) focused on ultra trail running.
 Here are some of my best times on the road:
-- 5K: 18:16 (2024)
-- 10K: 37:43 (2024)
+- 5K: 18:16 (12.2024)
+- 10K: ~~37:43 (11.2024)~~ 37:28 (10.2025)
