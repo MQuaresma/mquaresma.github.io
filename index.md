@@ -14,11 +14,11 @@ GPG Key: [0175 939D F826 0A21 67CA  77C3 02AB 8675 9274 E038](assets/miguelq.asc
 
 I am a Security and Cryptography Researcher and Engineer at [Least Authority](https://leastauthority.com/), performing security audits of cryptographic and distributed applications, from design to implementation.
 
-I am also a Doctoral Candidate at the [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org/) jointly supervised by [Gilles Barthe](https://gbarthe.github.io/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on high-performance, high-assurance post-quantum cryptographic implementations.
+I am also a Doctoral Candidate at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/) jointly supervised by [Gilles Barthe](https://gbarthe.github.io/) and [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). My research focuses on high-performance, high-assurance post-quantum cryptographic implementations.
 
 Previously I worked at [Goldman Sachs](https://www.goldmansachs.com/) as a Cybersecurity Analyst.
 
-Between 2015 and 2020 I completed my BSc and MSc degrees in Computer Engineering at the [University of Minho](https://www.uminho.pt/EN), where I specialized in Cryptography, Information Security, Parallel and Distributed Computing. I wrote my Master's thesis at the [High-Assurance Software Laboratory (HASLab)](https://haslab.uminho.pt/) as part of the
+Between 2015 and 2020 I completed my B.Sc. and M.Sc. degrees in Computer Engineering at the [University of Minho](https://www.uminho.pt/EN), where I specialized in Cryptography, Information Security, Parallel and Distributed Computing. I wrote my Master's thesis at the [High-Assurance Software Laboratory (HASLab)](https://haslab.uminho.pt/) as part of the
 [REASSURE project](http://www.cister.isep.ipp.pt/projects/reassure).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thesis**: *TrustZone based Attestation in Secure Runtime Verification for Embedded Systems*
